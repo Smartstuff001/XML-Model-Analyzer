@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Model Analyzer", "XML Model Analyzer.csproj", "{67D97623-2722-46EB-A9F3-4BBD35063FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.All|Any CPU.Build.0 = Release|Any CPU
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D97623-2722-46EB-A9F3-4BBD35063FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18387CA-CB06-409F-BD6C-46D4439429F1}
+	EndGlobalSection
+EndGlobal
